@@ -5,14 +5,15 @@ My name is Ismayil, and I am a student at DSTU, where I have been actively study
 ## About Me
 - 🎓 Student at DSTU, specializing in computer science
 - 💻 Over 4 years of programming experience
-- ☕ Main focus is Java development
+- ☕ Main focus is Java development(Spring Framework)
 - 🗃️ Work with PostgreSQL, MySQL, SQLite
-- 🛠️ Learning Spring Framework and MongoDB
+- 🛠️ Learning Go and MongoDB
 - 🧠 I studied OOP in C++
 - 🐍 Occasionally write code in Python(Flask)
 - 🌐 Build small websites
 - 💼 Collaborating on startup projects "Sputnik", "SwipeUp" and "Дай лапу" as part of a team
 - 🐧 I have a passion for Linux and enjoy writing Bash scripts
+- 🔐 The new craze is application security
 
 ## My Experience
 - I worked as a freelancer, developing various projects on demand.
@@ -25,12 +26,15 @@ My name is Ismayil, and I am a student at DSTU, where I have been actively study
 - MySQL
 - SQLite
 - MongoDB
+- Redis
 - Aiogram
 - Python (Flask)
 - Linux
 - Bash
 - C++ (Qt)
 - HTML/CSS/JS
+- Vue.js
+- Go
 
 ## Contact Me
 You can always reach out to me via:
@@ -54,14 +58,15 @@ Russian translation
 ## Обо мне
 - 🎓 Студент ДГТУ, специализируюсь в области компьютерных наук
 - 💻 Более 4 лет опыта программирования
-- ☕ Основное направление - разработка на Java
+- ☕ Основное направление - разработка на Java (Spring Framework)
 - 🗃️ Работаю с PostgreSQL, MySQL, SQLite
-- 🛠️ Изучаю Spring Framework и MongoDB
+- 🛠️ Изучаю Go и MongoDB
 - 🧠 Изучал ООП на C++
 - 🐍 Иногда пишу код на Python (Flask)
 - 🌐 Создаю небольшие веб-сайты
 - 💼 Участвую в стартап-проектах "Sputnik", "SwipeUp" и "Дай лапу" в команде
 - 🐧 Обожаю Linux и наслаждаюсь написанием скриптов на Bash
+- 🔐 Новое увлечение - безопасность приложений
 
 ## Мой опыт
 - Работал фрилансером, разрабатывал различные проекты на заказ.
@@ -74,12 +79,15 @@ Russian translation
 - MySQL
 - SQLite
 - MongoDB
+- Redis
 - Aiogram
 - Python (Flask)
 - Linux
 - Bash
 - C++ (Qt)
 - HTML/CSS/JS
+- Vue.js
+- Go
 
 ## Свяжитесь со мной
 Вы всегда можете связаться со мной по следующим каналам:
